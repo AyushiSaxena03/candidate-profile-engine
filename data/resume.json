@@ -1,0 +1,27 @@
+{
+    "name": "Ayushi Saxena",
+    "email": "ayushi.saxena@gmail.com",
+    "phone": "9876543210",
+    "location": "Ghaziabad, India",
+    "skills": [
+        "Python",
+        "ML",
+        "C++"
+    ],
+    "experience": [
+        {
+            "company": "ABC Technologies",
+            "title": "ML Intern",
+            "start": "Jan 2024",
+            "end": "Jun 2024"
+        }
+    ],
+    "education": [
+        {
+            "institution": "KIET Group of Institutions",
+            "degree": "B.Tech",
+            "field": "Computer Science",
+            "end_year": 2027
+        }
+    ]
+}

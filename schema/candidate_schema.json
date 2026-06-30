@@ -1,0 +1,55 @@
+{
+  "type": "object",
+
+  "properties": {
+
+    "full_name": {
+      "type": "string"
+    },
+
+    "primary_email": {
+      "type": "string"
+    },
+
+    "phone": {
+      "type": "string"
+    },
+
+    "headline": {
+      "type": "string"
+    },
+
+    "skills": {
+      "type": "array"
+    },
+
+    "experience": {
+      "type": "array"
+    },
+
+    "education": {
+      "type": "array"
+    },
+
+    "location": {
+      "type": "object"
+    },
+
+    "links": {
+      "type": "object"
+    }
+
+  },
+
+  "required": [
+
+    "full_name",
+
+    "primary_email",
+
+    "phone",
+
+    "skills"
+
+  ]
+}

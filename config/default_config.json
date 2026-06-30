@@ -1,0 +1,30 @@
+{
+    "fields": [
+        {
+            "path": "full_name",
+            "from": "full_name"
+        },
+        {
+            "path": "primary_email",
+            "from": "primary_email"
+        },
+        {
+            "path": "phone",
+            "from": "phone"
+        },
+        {
+            "path": "skills",
+            "from": "skills"
+        },
+        {
+            "path": "headline",
+            "from": "headline"
+        }
+    ],
+
+    "include_confidence": true,
+
+    "include_provenance": true,
+
+    "on_missing": "null"
+}
