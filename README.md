@@ -376,5 +376,5 @@ This project was designed with the following principles:
 
 **Ayushi Saxena**
 
-- GitHub: https://github.com/<your-github-username>
+- GitHub: https://github.com/AyushiSaxena03/candidate-profile-engine
 - Built as part of the **Eightfold AI Engineering    Internship Assignment**.
