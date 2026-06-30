@@ -323,8 +323,9 @@ python -m pytest
   }
 }
 
-c:\Users\Ayushi.Saxena\Pictures\Screenshots\Screenshot 2026-06-30 212857.png
 ```
+<img width="1340" height="387" alt="Screenshot 2026-06-30 212857" src="https://github.com/user-attachments/assets/140718a7-6324-4090-a822-30c8ed902866" />
+
 
 ### Custom Output
 
@@ -341,6 +342,8 @@ c:\Users\Ayushi.Saxena\Pictures\Screenshots\Screenshot 2026-06-30 212857.png
 
 c:\Users\Ayushi.Saxena\Pictures\Screenshots\Screenshot 2026-06-30 212935.png
 ```
+<img width="1332" height="228" alt="Screenshot 2026-06-30 212935" src="https://github.com/user-attachments/assets/2ea760f1-bbc2-49f5-b3d8-dbb0fac02851" />
+
 
 ---
 
